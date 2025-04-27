@@ -1,4 +1,4 @@
-# Guía de Estudio: Introducción a Git y GitHub para GitHub Classroom
+# Introducción a Git y GitHub para GitHub Classroom
 
 ## 1. ¿Qué es Git?
 Git es un sistema de control de versiones distribuido que permite rastrear los cambios en los archivos de un proyecto. Es útil para trabajar en equipo, ya que facilita la colaboración y la gestión de versiones del código.
